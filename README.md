@@ -1,0 +1,2 @@
+# CapstoneProject_with_Titanic_Survivor_Prediction
+Using Logistic Regression
